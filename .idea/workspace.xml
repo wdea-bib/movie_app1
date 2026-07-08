@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="069bc268-b4e6-4a80-bc20-9be1e3f9b69d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter-for-react/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/starter-for-react/.env.example" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wdea-bib"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ArhanAnsari/moodflix.git",
+    "accountId": "81c22554-17f2-48b3-b744-a97e8150c4b3"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2142483393054258" />
+      <entry key="MS500" value="2.4494788553957942" />
+      <entry key="S2" value="4.666208449323349" />
+      <entry key="S5" value="5.855355597056857" />
+      <entry key="S10" value="6.383787748816393" />
+      <entry key="S30" value="6.783848153285711" />
+      <entry key="S60" value="6.890512905512184" />
+      <entry key="M2" value="6.944898358365602" />
+      <entry key="M5" value="6.9778727123419015" />
+      <entry key="M10" value="6.988921859896577" />
+      <entry key="M15" value="6.992611347575799" />
+      <entry key="M30" value="6.996304059868614" />
+      <entry key="H1" value="6.99815162625279" />
+      <entry key="H2" value="6.999075712180795" />
+      <entry key="H4" value="6.999537830850841" />
+      <entry key="D1" value="6.9999229683027115" />
+      <entry key="W1" value="6.999988995385958" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.134175343991175" />
+      <entry key="MS500" value="2.406576681703485" />
+      <entry key="S2" value="4.565588034265598" />
+      <entry key="S5" value="5.778423845409039" />
+      <entry key="S10" value="6.335739854251905" />
+      <entry key="S30" value="6.765246217073422" />
+      <entry key="S60" value="6.880855776429566" />
+      <entry key="M2" value="6.93997810144075" />
+      <entry key="M5" value="6.9758822557854225" />
+      <entry key="M10" value="6.987922876673724" />
+      <entry key="M15" value="6.99194452214461" />
+      <entry key="M30" value="6.995970228297888" />
+      <entry key="H1" value="6.99798460565094" />
+      <entry key="H2" value="6.998992175662898" />
+      <entry key="H4" value="6.999496056036045" />
+      <entry key="D1" value="6.999916004922909" />
+      <entry key="W1" value="6.999988000595112" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GCTzv6Cxw01U0ob46hxbJTnaKW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Sharoobi/Desktop/projects/moodflix",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069bc268-b4e6-4a80-bc20-9be1e3f9b69d" name="Changes" comment="" />
+      <created>1783474818002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783474818002</updated>
+      <workItem from="1783474819139" duration="1021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
